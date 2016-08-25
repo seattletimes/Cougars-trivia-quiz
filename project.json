@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "wsutrivia"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/quizzes/Cougars-trivia-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2016/quizzes/Cougars-trivia-quiz/",
+  "slug": "",
+  "tags": ["quiz"],
+  "image": "assets/social.jpg",
+  "sheets": ["1qnLi8MBJh0UydXAFx5OK4QUQ_rPQFYyiRI5G7Kw6Wrs"],
+  "production": false,
+  "embedded": true
+}

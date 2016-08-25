@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "question": "Before going 9-4 last year, when was the last time WSU had a winning record?",
+    "description": "The Cougars came close a couple of times, most notably in 2006 when they finished with a 6-6 record, and in 2013, when they blew a 22 point lead in the New Mexico Bowl to finish 6-7.",
+    "image": "BESTwsu_2003.jpg"
+  },
+  {
+    "id": 2,
+    "question": "Many fans remember when WSU threw for a school-record 734 yards against Cal in 2014. But who did the Cougs rush for 524 yards against in 1984 to set a school record?",
+    "description": "Rueben Mayes led the way for Washington State, as he rushed for what was at the time an NCAA-record 357 yards on 39 carries to lead the Cougars to a 50-41 win over the Ducks",
+    "image": "BESTrueben_mayes.jpg"
+  },
+  {
+    "id": 3,
+    "question": "In that 2014 shootout against Cal, the Cougars gave up 527 passing yards. But that wasn't the most they've ever allowed in a game. What is the only team to put up more passing yards on WSU?",
+    "description": "BYU quarterback Ty Detmer torched the Cougar secondary, as he completed 34 of 53 passes for 537 yards and four touchdowns. But he also threw three interceptions, and WSU won the game 46-41 on the back of Steve Broussard, who scored four touchdowns."
+  },
+  {
+    "id": 4,
+    "question": "Luke Falk threw for 4,561 yards last season, second-most in school history. Who was the first WSU quarterback to throw for over 3,000 yards in a single season?",
+    "description": "Rosenbach played sparingly in 1986, then took over as the starter in 1987 and had a solid season, throwing for 2,446 yards. He took a big step forward the next year, throwing for 3,097 yards and 24 TDs to lead WSU to a 9-3 record.",
+    "image": "BESTtimm_rosenbach.jpg"
+  },
+  {
+    "id": 5,
+    "question": "Gabe Marks needs 649 receiving yards to pass who as the WSU career leader?",
+    "description": "Wilson racked up 3,207 receiving yards over his three years playing at WSU. Marks already has 2,559 yards, good enough for fourth on the Washington State all-time list.",
+    "image": "BESTmarquess_wilson2.jpg"
+  },
+  {
+    "id": 6,
+    "question": "WSU's 20-14 win over Miami in the Sun Bowl last year was their first win in a bowl game since when?",
+    "description": "WSU pulled off a major upset, as Texas came into the game as the No. 5 team in the country. The Cougars scored 19 unanswered points in the third quarter to turn a 10-7 deficit into a 26-10 lead, eventually winning the game 28-20.",
+    "image": "BESTwsu_texas_2003_1.jpg"
+  },
+  {
+    "id": 7,
+    "question": "While they are now the Cougars, that hasn't always been WSU's mascot. What was the school's first mascot?",
+    "description": "Squirt the Terrier became the mascot when someone brought a dog to campus early in the 20th century. From 1910-1919, the mascot became the Indians, and in October 1919 WSU settled on the cougar as the official mascot."
+  },
+  {
+    "id": 8,
+    "question": "Before a student took over the role in 1979, WSU used a live cougar as a mascot. Why did the school decide to stop using live cougars as mascots?",
+    "description": "In August of 1978, Butch VI died. This prompted a debate on whether the tradition should continue, and a survey of 403 students found that 63 percent of students opposed another live cougar. Because of that, WSU President Glenn Terrell decided to end the tradition.",
+    "image": "BESTcougar_mascot1.jpg"
+  },
+  {
+    "id": 9,
+    "question": "Connor Halliday holds most of WSU's career passing records. Which of the following does he not hold?",
+    "description": "Halliday has comfortable leads in attempts and touchdowns, and his 62.0% career completion percentage is slightly higher than Jeff Tuel’s 61.4%. But Halliday comes up short in career yards of total offense with 10,812, just 199 yards behind Alex Brink with 11,011.",
+    "image": "BESTalex_brink2.jpg"
+  },
+  {
+    "id": 10,
+    "question": "WSU has had nine seasons where they only won one game, and in five of those seasons, that one win has come against the same team. Which team is that?",
+    "description": "The University of Idaho was the first team WSU ever played, a 10-0 Cougars win in 1894. WSU has continued to dominate the series ever since, as they hold a 71-17-3 all-time record against the Vandals.",
+    "image": "BESTwsu_idaho.jpg"
+  },
+  {
+    "id": 12,
+    "question": "WSU has had a number of players finish in the top 10 in Heisman voting. Which of the following players never had a top 10 finish?",
+    "description": "Halliday got some Heisman dark horse buzz, but he never made it into the top 10. In his junior season in 2013 he threw for 4,597 yards, but his 22 interceptions may have held him back in the eyes of voters. The next year, he seemed to be in the discussion again, but a broken leg suffered in November ended any hopes he add of a Heisman.",
+    "image": "BESTconnor_halliday.jpg"
+  },
+  {
+    "id": 11,
+    "question": "WSU won their first Rose Bowl in 1916. What team did they beat?",
+    "description": "Inclement weather in the days leading up to the game had left the field a pit of mud, and neither team scored in the first half. But WSU broke through for a pair of touchdowns in the second half, and their defense shut out Brown, giving the Cougars a 14-0 win."
+  },
+  {
+    "id": 13,
+    "question": "Who did Drew Bledsoe complete his famous touchdown pass to that gave WSU the lead in the 1992 edition of the Apple Cup?",
+    "description": "In blizzard-like conditions with WSU trailing 7-6 in the third quarter of the game that would come to be known as the 'Snow Bowl,' Bledsoe hit Bobo on a 44-yard touchdown pass. Bobo slid into a pile of snow by the goalposts, and the catch sparked a 29-point third quarter that carried the Cougars to a 42-23 win and gave UW just their second loss of the season.",
+    "image": "BESTapple_cup1.jpg"
+  },
+  {
+    "id": 14,
+    "question": "WSU entered the 1982 Apple Cup having lost eight straight games to UW, tying the series record. What happened in that game to help WSU break the streak?",
+    "description": "WSU came in with only two wins, while UW was 9-1 and ranked No. 5 in the nation. But Nelson, who hadn't missed a kick all year, pushed a 33-yarder that would have given UW the lead wide right with less than four minutes to play, and the Cougars went on to complete the upset, 24-20.",
+    "image": "cougwin22.jpg"
+  }
+]

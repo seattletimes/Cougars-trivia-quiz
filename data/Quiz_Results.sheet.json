@@ -1,0 +1,34 @@
+[
+  {
+    "min": 0,
+    "max": 3,
+    "title": "Newbie ",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "min": 4,
+    "max": 7,
+    "title": "Coug fan in training",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "min": 8,
+    "max": 11,
+    "title": "Seasoned fan",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "min": 12,
+    "max": 14,
+    "title": "True die-hard",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  }
+]
