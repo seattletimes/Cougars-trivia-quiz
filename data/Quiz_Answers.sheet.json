@@ -18,20 +18,20 @@
   },
   {
     "id": 2,
-    "answer": "Oregon",
-    "correct": "Rueben Mayes led the way for Washington State, as he rushed for what was at the time an NCAA-record 357 yards on 39 carries to lead the Cougars to a 50-41 win over the Ducks"
+    "answer": "Rueben Mayes",
+    "correct": "Mayes led the way for Washington State, as he rushed for what was at the time an NCAA-record 357 yards on 39 carries to lead the Cougars to a 50-41 win over the Ducks"
   },
   {
     "id": 2,
-    "answer": "Stanford"
+    "answer": "Chris Ivory"
   },
   {
     "id": 2,
-    "answer": "Utah"
+    "answer": "Jerome Harrison"
   },
   {
     "id": 2,
-    "answer": "Oregon State"
+    "answer": "Steve Broussard"
   },
   {
     "id": 3,
@@ -124,7 +124,7 @@
   },
   {
     "id": 8,
-    "answer": "When the cougar died just before the 1978 season, they couldn't find another one in time so they swtiched to a human mascot."
+    "answer": "When the cougar died just before the 1979 season, they couldn't find another one in time so they swtiched to a human mascot."
   },
   {
     "id": 8,
@@ -188,7 +188,7 @@
   },
   {
     "id": 12,
-    "answer": "Reuben Mayes"
+    "answer": "Rueben Mayes"
   },
   {
     "id": 11,
@@ -230,7 +230,7 @@
   },
   {
     "id": 14,
-    "answer": "Huskies kicker Charles Nelson missed a 33 yard field goal attempt that would have given UW the lead late in the game.",
+    "answer": "Huskies kicker Charles Nelson missed a 33 yard field goal attempt that would have given UW the lead late in the game",
     "correct": "WSU came in with only two wins, while UW was 9-1 and ranked No. 5 in the nation. But Nelson, who hadn't missed a kick all year, pushed a 33-yarder that would have given UW the lead wide right with less than four minutes to play, and the Cougars went on to complete the upset, 24-20."
   },
   {
@@ -240,5 +240,19 @@
   {
     "id": 14,
     "answer": "Cougars kicker John Traut hit a 48-yard field goal as time expired to give WSU a come-from-behind win"
+  },
+  {
+    "id": 15
+  },
+  {
+    "id": 15
+  },
+  {
+    "id": 15,
+    "answer": "Jason Gesser",
+    "correct": "x"
+  },
+  {
+    "id": 15
   }
 ]

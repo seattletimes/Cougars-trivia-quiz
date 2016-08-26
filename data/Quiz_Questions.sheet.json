@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "question": "Many fans remember when WSU threw for a school-record 734 yards against Cal in 2014. But who did the Cougs rush for 524 yards against in 1984 to set a school record?",
+    "question": "Many fans remember when Connor Halliday led WSU to a school-record 734 passing yards against Cal in 2014. But who led the Cougs to 524 rushing yards against Oregon to set a school record?",
     "description": "Rueben Mayes led the way for Washington State, as he rushed for what was at the time an NCAA-record 357 yards on 39 carries to lead the Cougars to a 50-41 win over the Ducks",
     "image": "BESTrueben_mayes.jpg"
   },
@@ -79,5 +79,9 @@
     "question": "WSU entered the 1982 Apple Cup having lost eight straight games to UW, tying the series record. What happened in that game to help WSU break the streak?",
     "description": "WSU came in with only two wins, while UW was 9-1 and ranked No. 5 in the nation. But Nelson, who hadn't missed a kick all year, pushed a 33-yarder that would have given UW the lead wide right with less than four minutes to play, and the Cougars went on to complete the upset, 24-20.",
     "image": "cougwin22.jpg"
+  },
+  {
+    "id": 15,
+    "question": "Who is the winningest quarterback in WSU history?"
   }
 ]
