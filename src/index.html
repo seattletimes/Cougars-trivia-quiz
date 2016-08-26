@@ -24,22 +24,21 @@
 
       <header>
 
-        <h2 class="quiz-label">Label here</h2>
+        <img class="logo" src="http://static.seattletimes.com/wp-content/uploads/2016/08/WashingtonStateCougars.png" width=40%, height=40%, >
 
         <h1 class="title">
 
-Do you know
+          Do you know
+
           <div class="secondary">
 
-            the Cougs?
+the Cougs?
 
           </div>
 
         </h1>
 
         <p class="chatter">
-
-          Chatter goes here
 
           <a class="share-button"></a>
         </p>
@@ -73,7 +72,7 @@ Do you know
           Source: <span class="credit-name">Source Name</span>
         </div>
 
-      <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>grunt
+        <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>
 
         <div class="bottom-ad"><%= t.include("partials/_ad.html", { type: "bannerBottom" }) %></div>
       </div>
