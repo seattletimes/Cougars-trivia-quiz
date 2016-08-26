@@ -52,20 +52,20 @@
   },
   {
     "id": 4,
-    "answer": "Connor Halliday in 2013"
+    "answer": "Connor Halliday",
+    "correct": "Halliday threw for 4,597 yards in the 2013 season. Falk came up just short of that total last season, and he certainly would have broken it if he had stayed healthy at the end of the season"
   },
   {
     "id": 4,
-    "answer": "Drew Bledsoe in 1992"
+    "answer": "Drew Bledsoe"
   },
   {
     "id": 4,
-    "answer": "Jason Gesser in 2001"
+    "answer": "Alex Brink"
   },
   {
     "id": 4,
-    "answer": "Timm Rosenbach in 1988",
-    "correct": "Rosenbach played sparingly in 1986, then took over as the starter in 1987 and had a solid season, throwing for 2,446 yards. He took a big step forward in 1988, throwing for 3,097 yards and 24 TDs to lead WSU to a 9-3 record."
+    "answer": "Ryan Leaf"
   },
   {
     "id": 5,
@@ -242,17 +242,20 @@
     "answer": "Cougars kicker John Traut hit a 48-yard field goal as time expired to give WSU a come-from-behind win"
   },
   {
-    "id": 15
+    "id": 15,
+    "answer": "Ryan Leaf"
   },
   {
-    "id": 15
+    "id": 15,
+    "answer": "Drew Bledsoe"
   },
   {
     "id": 15,
     "answer": "Jason Gesser",
-    "correct": "x"
+    "correct": "Jason Gesser won 14 of the 22 games he started for the Cougs, racking up 5,422 yards and 42 touchdowns over his four seasons."
   },
   {
-    "id": 15
+    "id": 15,
+    "answer": "Mark Rypien"
   }
 ]
