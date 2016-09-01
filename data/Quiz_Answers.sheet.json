@@ -35,8 +35,7 @@
   },
   {
     "id": 3,
-    "answer": "Patriots",
-    "correct": "Bucannon tallied 363 punishing tackles and 11 interceptions while roaming the backfield at WSU. Bucannon was drafted in the first round by the Arizona Cardinals in 2014."
+    "answer": "Patriots"
   },
   {
     "id": 3,
@@ -52,12 +51,13 @@
   },
   {
     "id": 3,
-    "answer": "Cardinals"
+    "answer": "Cardinals",
+    "correct": "Bucannon tallied 363 punishing tackles and 11 interceptions while roaming the backfield at WSU. He was drafted in the first round by the Arizona Cardinals in 2014."
   },
   {
     "id": 4,
     "answer": "Connor Halliday",
-    "correct": "Halliday threw for 4,597 yards in the 2013 season. Falk came up just short of that total last season, and he certainly would have broken it if he had stayed healthy at the end of the season"
+    "correct": "Halliday threw for 4,597 yards in the 2013 season. Falk came up just short of that total in 2015, racking up 4,561 yards."
   },
   {
     "id": 4,
@@ -99,7 +99,7 @@
   {
     "id": 6,
     "answer": "Texas in the 2003 Holiday Bowl",
-    "correct": "WSU pulled off a major upset, as Texas came into the game as the number 5 team in the country. The Cougars scored 19 unanswered points in the third quarter to turn a 10-7 deficit into a 26-10 lead, eventually winning the game 28-20."
+    "correct": "WSU pulled off a major upset, as Texas came into the game as the No. 5 team in the country. The Cougars scored 19 unanswered points in the third quarter to turn a 10-7 deficit into a 26-10 lead, eventually winning the game 28-20."
   },
   {
     "id": 6,
@@ -154,12 +154,12 @@
   {
     "id": 9,
     "answer": "Most yards of total offense",
-    "correct": "Halliday has comfortable leads in attempts and touchdowns, and his 62.0% career completion percentage is slightly higher than Jeff Tuel’s 61.4%. But Halliday comes up short in career yards of total offense with 10,812, just 199 yards behind Alex Brink with 11,011."
+    "correct": "Halliday has comfortable leads in attempts and touchdowns, and his 62.0 percent career completion percentage is slightly higher than Jeff Tuel’s 61.4 percent. But Halliday comes up short in career yards of total offense with 10,812, just 199 yards behind Alex Brink with 11,011."
   },
   {
     "id": 10,
     "answer": "Idaho",
-    "correct": "The University of Idaho was the first team WSU ever played, a 10-0 Cougars win in 1894. WSU has continued to dominate the series ever since, as they hold a 71-17-3 all-time record against the Vandals."
+    "correct": "The University of Idaho was the first team WSU ever played -- a 10-0 Cougars win in 1894. WSU has continued to dominate the series ever since, holding a 71-17-3 all time record against the Vandals."
   },
   {
     "id": 10,
@@ -180,7 +180,7 @@
   {
     "id": 12,
     "answer": "Connor Halliday",
-    "correct": "Halliday got some Heisman dark horse buzz, but he never made it into the top 10. In his junior season in 2013 he threw for 4,597 yards, but his 22 interceptions may have held him back in the eyes of voters. The next year, he seemed to be in the discussion again, but a broken leg suffered in November ended any hopes he add of a Heisman."
+    "correct": "Halliday received some Heisman buzz in 2013, but he never made it into the top 10. In his junior season, he threw for 4,597 yards, but his 22 interceptions may have held him back in the eyes of voters. The next year, he seemed to be in the discussion again, but a broken leg suffered in November ended any hopes he add of a Heisman."
   },
   {
     "id": 12,
@@ -196,20 +196,24 @@
   },
   {
     "id": 11,
-    "answer": "Brown",
-    "correct": "Inclement weather in the days leading up to the game had left the field a pit of mud, and neither team scored in the first half. But WSU broke through for a pair of touchdowns in the second half, and their defense shut out Brown, giving the Cougars a 14-0 win."
+    "answer": "Mike Leach"
   },
   {
     "id": 11,
-    "answer": "Harvard"
+    "answer": "Babe Hollingbery"
   },
   {
     "id": 11,
-    "answer": "Alabama"
+    "answer": "Dennis Erickson"
   },
   {
     "id": 11,
-    "answer": "Michigan"
+    "answer": "Bill Doba"
+  },
+  {
+    "id": 11,
+    "answer": "Mike Price",
+    "correct": "Though Babe Hollingbery holds the WSU record for most wins as a head coach, Mike Price led the Cougs in their golden era -- taking the team to two Rose Bowls and a No. 3 ranking in 2002."
   },
   {
     "id": 13,
@@ -234,7 +238,7 @@
   },
   {
     "id": 14,
-    "answer": "Huskies kicker Charles Nelson missed a 33 yard field goal attempt that would have given UW the lead late in the game",
+    "answer": "Huskies kicker Chuck Nelson missed a 33 yard field goal attempt that would have given UW the lead late in the game",
     "correct": "WSU came in with only two wins, while UW was 9-1 and ranked No. 5 in the nation. But Nelson, who hadn't missed a kick all year, pushed a 33-yarder that would have given UW the lead wide right with less than four minutes to play, and the Cougars went on to complete the upset, 24-20."
   },
   {

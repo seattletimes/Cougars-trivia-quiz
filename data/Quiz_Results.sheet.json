@@ -3,6 +3,7 @@
     "min": 0,
     "max": 3,
     "title": "Newbie ",
+    "description": "It might be time for a Husky history lesson. Don't worry, there are lots of die-hards in Seattle who will be happy to reminisce about the glory days.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -11,6 +12,7 @@
     "min": 4,
     "max": 7,
     "title": "Coug fan in training",
+    "description": "You clearly know enough to pass as a true fan, but you've got some learning to do. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -19,6 +21,7 @@
     "min": 8,
     "max": 11,
     "title": "Seasoned fan",
+    "description": "There's no question you're a true Coug. You likely have a picture of the Palouse as your desktop screensaver, a Mike Leach \"swing your sword\" banner on your wall and a half-eaten tin of Cougar Gold Cheese sitting in your room. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -27,6 +30,7 @@
     "min": 12,
     "max": 14,
     "title": "True die-hard",
+    "description": "Crimson runs deep in your veins. You should probably be the one quizzing us.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"

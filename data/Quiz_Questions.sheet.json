@@ -14,13 +14,13 @@
   {
     "id": 3,
     "question": "Former hard-hitting WSU safety Deone Bucannon led which NFL team in tackles in 2016?",
-    "description": "Bucannon tallied 363 punishing tackles and 11 interceptions while roaming the backfield at WSU. Bucannon was drafted in the first round by the Arizona Cardinals in 2014.",
+    "description": "Bucannon tallied 363 punishing tackles and 11 interceptions while roaming the backfield at WSU. He was drafted in the first round by the Arizona Cardinals in 2014.",
     "image": "wsu3.JPG"
   },
   {
     "id": 4,
     "question": "QB Luke Falk threw for 4,566 yards in 2016, second most in school history. Who holds the WSU record for most passing yards in a single season?",
-    "description": "Halliday threw for 4,597 yards in the 2013 season. Falk came up just short of that total last season, and he certainly would have broken it if he had stayed healthy at the end of the season",
+    "description": "Halliday threw for 4,597 yards in the 2013 season. Falk came up just short of that total in 2015, racking up 4,561 yards.",
     "image": "wsu5.JPG"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "id": 8,
-    "question": "Before a student took over the role in 1979, WSU used a live cougar as a mascot. Why did the school decide to stop using live a live cougar as a mascot?",
+    "question": "Before a student took over the role in 1979, WSU used a live cougar as a mascot. Why did the school decide to stop using live a live cougar as a mascot?\n",
     "description": "In August of 1978, Butch VI died. This prompted a debate on whether the tradition should continue, and a survey of 403 students found that 63 percent of students opposed another live cougar. Because of that, WSU President Glenn Terrell decided to end the tradition.",
     "image": "wsu9.JPG"
   },
@@ -61,8 +61,9 @@
   },
   {
     "id": 11,
-    "question": "WSU won their first Rose Bowl in 1916. What team did they beat?",
-    "description": "Inclement weather in the days leading up to the game had left the field a pit of mud, and neither team scored in the first half. But WSU broke through for a pair of touchdowns in the second half, and their defense shut out Brown, giving the Cougars a 14-0 win."
+    "question": "Under which coach did WSU recieve its highest-ever AP ranking?",
+    "description": "Though Babe Hollingbery holds the WSU record for most wins as a head coach, Mike Price led the Cougs in their golden era -- taking the team to two Rose Bowls and a No. 3 ranking in 2002.",
+    "image": "mikeprice.jpg"
   },
   {
     "id": 12,
@@ -87,8 +88,5 @@
     "question": "Who is the winningest quarterback in WSU history?",
     "description": "Jason Gesser won 14 of the 22 games he started for the Cougs, racking up 5,422 yards and 42 touchdowns over his four seasons.",
     "image": "wsu4.JPG"
-  },
-  {
-    "question": "WSU has had a number of players finish in the top 10 in Heisman voting. Which of the following players never had a top 10 finish?"
   }
 ]
