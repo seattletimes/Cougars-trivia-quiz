@@ -9,13 +9,13 @@
       "path": "2016/quizzes/Cougars-trivia-quiz"
     }
   },
-  "title": "",
-  "description": "",
+  "title": "Quiz: How well do you know the Huskies?",
+  "description": "With another college football season upon us, we want you to put your Cougar football knowledge to the test!",
   "url": "http://projects.seattletimes.com/2016/quizzes/Cougars-trivia-quiz/",
-  "slug": "",
+  "slug": "WSU-trivia",
   "tags": ["quiz"],
   "image": "assets/social.jpg",
   "sheets": ["1qnLi8MBJh0UydXAFx5OK4QUQ_rPQFYyiRI5G7Kw6Wrs"],
-  "production": false,
+  "production": true,
   "embedded": true
 }

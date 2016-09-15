@@ -14,12 +14,6 @@
     <div class="outer">
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
-      <nav class="top-bar">
-        <a class="logo" href="http://seattletimes.com">
-          <img src="./assets/seattletimes.svg">
-        </a>
-      </nav>
-
       <img class="splash" src="http://static.seattletimes.com/wp-content/uploads/2016/03/CougarTriviaTOPPER-003.jpg">
 
       <header>
@@ -39,6 +33,8 @@ the Cougs?
         </h1>
 
         <p class="chatter">
+
+        If you're a Coug fan, you've seen it all. You've been through plenty of bad years, but it's been all worth it for the good ones. Think you know Cougar football? Well, now's your chance to put that knowledge to the test.
 
           <a class="share-button"></a>
         </p>
@@ -60,16 +56,16 @@ the Cougs?
 
         <div class="credits">
 
-          First credit by <span class="credit-name">Author Name(s)</span>
+          Quiz by <span class="credit-name">Nick Sullivan and Sean Quinton</span>
 
           &bull;
 
-          Second credit by <span class="credit-name">Author Name(s)</span>
+        Development by <span class="credit-name">Audrey Carlsen</span>
 
         </div>
 
         <div class="sources">
-          Source: <span class="credit-name">Source Name</span>
+          Source: <span class="credit-name">Cougcenter.com, WSUcougars.com</span>
         </div>
 
         <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>
